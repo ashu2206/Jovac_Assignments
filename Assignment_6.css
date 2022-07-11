@@ -1,0 +1,22 @@
+* body{
+    background-color: skyblue;
+}
+.block{
+    width:50%;
+    height:650px;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    background-color: aliceblue;
+    margin-left: 300px;
+}
+.btn button{
+    border-radius: 5px;
+    background-color: skyblue;
+   
+    height: 30px;
+}
+.heading{
+    text-align: center;
+    justify-content: center;
+}
